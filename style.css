@@ -1,3 +1,25 @@
+#background {
+    background-color: lightgrey;
+}
+
+.text {
+    color: white;
+}
+
+.background {
+    background-color: lightgray;
+}
+
+.divider {
+    background-color: darkgray;
+}
+
+.content {
+    background-color: white;
+    align-content: center;
+}
+
+
 .name { 
     text-align: center;
     height: 75px;
@@ -18,7 +40,7 @@ ul {
   }
   
   li {
-    float: left;
+    float: right;
   }
   
   li a {
